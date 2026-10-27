@@ -408,7 +408,7 @@ Uber_Analytics_Dashboard/
 | 📁 **PowerBI** | The 4-page Power BI report |
 | 📁 **Dashboard_Images** | Dashboard screenshots shown in this README |
 
-> Folder and file names are case-sensitive on GitHub. The dashboard screenshots only show if they are in `Images/` with exactly the names above.
+> Folder and file names are case-sensitive on GitHub. The dashboard screenshots only show if they are in `Dashboard_Images/` with exactly the names above.
 
 ---
 
