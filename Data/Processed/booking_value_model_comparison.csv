@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Median Baseline,274.593,409.572,-0.052
+Linear Regression,278.243,389.297,0.05
+Ridge Regression,278.199,389.252,0.05
+Random Forest,279.363,391.684,0.038
