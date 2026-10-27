@@ -202,7 +202,7 @@ The report moves the reader from a high-level view of booking performance to ope
 
 *Key performance indicators across bookings, completions, cancellations and revenue.*
 
-![Executive Overview](Dashboard_Images/01_executive_overview.png)
+![Executive Overview](Dashboard_Images/01_executive_overview.PNG)
 
 <details>
 <summary><b>What this page shows</b></summary>
@@ -222,7 +222,7 @@ The report moves the reader from a high-level view of booking performance to ope
 
 *Peak hours, wait times, cancellation reasons and trip profile.*
 
-![Operations Analysis](Dashboard_Images/02_operations_analysis.png)
+![Operations Analysis](Dashboard_Images/02_operations_analysis.PNG)
 
 <details>
 <summary><b>What this page shows</b></summary>
@@ -243,7 +243,7 @@ The report moves the reader from a high-level view of booking performance to ope
 
 *Service quality ratings, incomplete rides and payment behavior.*
 
-![Driver & Customer Insights](Dashboard_Images/03_driver_customer_insights.png)
+![Driver & Customer Insights](Dashboard_Images/03_driver_customer_insights.PNG)
 
 <details>
 <summary><b>What this page shows</b></summary>
@@ -264,7 +264,7 @@ The report moves the reader from a high-level view of booking performance to ope
 
 *Revenue performance and top 10 pickup and drop locations.*
 
-![Revenue & Geography](Dashboard_Images/04_revenue_geography.png)
+![Revenue & Geography](Dashboard_Images/04_revenue_geography.PNG)
 
 <details>
 <summary><b>What this page shows</b></summary>
