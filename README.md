@@ -392,10 +392,10 @@ Uber_Analytics_Dashboard/
 ├── PowerBI/
 │   └── Uber_Operations_Intelligence.pbix
 ├── Dashboard_Images/
-│   ├── 01_executive_overview.png
-│   ├── 02_operations_analysis.png
-│   ├── 03_driver_customer_insights.png
-│   └── 04_revenue_geography.png
+│   ├── 01_executive_overview.PNG
+│   ├── 02_operations_analysis.PNG
+│   ├── 03_driver_customer_insights.PNG
+│   └── 04_revenue_geography.PNG
 └── README.md
 ```
 
